@@ -1,5 +1,6 @@
 # Real_Estate_Price_Prediction_Ithaca
 In this project, we will use a dataset to predict the price of houses in Ithaca.
+
 Authors: Marc Davila (md934), Manoli Lambrakis (el668)
 
 As more people keep moving into the United States, there are big firms that take advantage of the laws put in place for home ownership. This year alone, about 40% of all homes in America are owned by big firms. As such, we want to evaluate the current house market in Ithaca. Using data from the real estate market, we will predict today's and future prices based on various factors. Some of those factors will include economic indicators, distance from colleges/stores, how many units/floors there are, and others. The reason why this is vital to understand now is that we want to know the behavior of the real estate market before it is affected by big firms. This project will leverage big messy data to forecast real estate prices.
